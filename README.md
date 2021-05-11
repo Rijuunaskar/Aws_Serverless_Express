@@ -1,6 +1,6 @@
 # Aws_Serverless_Express
 
-# It is wel configured and tested aws serverless express frame work code.
+# It is well configured and tested aws serverless express frame work code.
 # which is just like old express codes.
 
 # First step would be npm i
